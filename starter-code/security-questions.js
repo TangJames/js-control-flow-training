@@ -1,5 +1,5 @@
 var prompt = require('../tools/prompt-sync')();
 
-console.log("running sing.js...");
+console.log("running security-questions.js...");
 
 // instructions in ../README.md
